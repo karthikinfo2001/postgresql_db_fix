@@ -8,5 +8,6 @@
 --INSERT INTO hello (name, age) VALUES ('Bob', 25) ON CONFLICT DO NOTHING;
 --alter table hello add column email varchar;
 
-alter table hello add column phone int;
-alter table hello add column address varchar;
+--alter table hello add column phone int;
+--alter table hello add column address varchar;
+alter table hello add column sub_1 int;
