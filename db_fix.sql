@@ -10,4 +10,4 @@
 
 --alter table hello add column phone int;
 --alter table hello add column address varchar;
-alter table hello add column sub_2 int;
+alter table hello add column sub_3 int;
